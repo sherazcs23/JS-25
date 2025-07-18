@@ -1,22 +1,16 @@
-Befor going next you should have knowledge of HTML,CSS 
-🌐 What is HTML?
-HTML (HyperText Markup Language) is the basic structure of every website.
-It tells the browser what content to display — such as:
+Q1.What is JavaScript?
+JavaScript is a scripting language used to create dynamic and interactive web pages.
 
-Headings
-Paragraphs
-Images
-Links
-Lists
+Q2.Is it synchronous or asynchronous?
+JavaScript is single-threaded and synchronous by default but supports asynchronous behavior via callbacks, promises, and async/await.
 
+Q3.Single-line or multi-line programming language?
+JavaScript supports both single-line and multi-line code.
 
-What is CSS?
-CSS (Cascading Style Sheets) is used to style the content created with HTML.
-It controls:
+Q4.JS runs on which engine?
+JavaScript runs on engines like Google's V8 (Chrome, Node.js), SpiderMonkey (Firefox), and others.
 
-Colors
-Fonts
-Layout
-Spacing
-Animations
-Think of CSS as the clothes and makeup for the HTML skeleton — it makes the website look beautiful and professiona
+Q4.Usage of console.log() in JavaScript:
+console.log() is used to print messages to the browser console for debugging or displaying output.
+example console.log("Hello world");
+output // Hello world .
