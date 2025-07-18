@@ -1,0 +1,32 @@
+🌐 What is HTML?
+
+HTML (HyperText Markup Language) is the basic structure of every website.
+It tells the browser what content to display — such as:
+
+Headings
+
+Paragraphs
+
+Images
+
+Links
+
+Lists
+
+
+What is CSS?
+
+CSS (Cascading Style Sheets) is used to style the content created with HTML.
+It controls:
+
+Colors
+
+Fonts
+
+Layout
+
+Spacing
+
+Animations
+
+Think of CSS as the clothes and makeup for the HTML skeleton — it makes the website look beautiful and professiona
