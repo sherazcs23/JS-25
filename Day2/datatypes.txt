@@ -1,5 +1,6 @@
 Q1 What are Data Types?
-Data types define the kind of data a variable can store. They tell the programming language what kind of value is being dealt with — whether it's text, numbers, true/false, etc.
+Data types define the kind of data a variable can store. 
+They tell the programming language what kind of value is being dealt with — whether it's text, numbers, true/false, etc.
 
 Q2.Difference Between Primitive and Non-Primitive Data Types:
   Answer
