@@ -1,0 +1,16 @@
+Q1 What are Data Types?
+Data types define the kind of data a variable can store. They tell the programming language what kind of value is being dealt with — whether it's text, numbers, true/false, etc.
+
+Q2.Difference Between Primitive and Non-Primitive Data Types:
+  Answer
+ TYP1  ==> Primtive DataType
+    Primitive data types are the most basic and fundamental types provided by JavaScript.
+    These include String, Number, BigInt, Boolean, undefined, null, and Symbol. 
+    They hold simple, immutable values and are stored directly in memory.
+    Primitive types are compared by their value.
+    
+ TYPE2 ==> Non Primitive Datatype
+    Non-primitive data types, on the other hand, are more complex.
+    These include Objects, Arrays, and Functions.
+    They are used to store collections of data or more complex entities.
+    Non-primitive types are stored by reference, not by value, meaning multiple variables can point to the same object in memory.
