@@ -39,6 +39,7 @@
  console.log(typeof students["_title"]);
  console.log(typeof students["cgpa"]);
  console.log(typeof students.isGraduated);
+ // below will update cgpa to to 0.3 plus original cgpa
  students.cgpa = students.cgpa + 0.3;
  console.log(students.cgpa);*/
 
@@ -153,7 +154,7 @@
 //  let d = 3;
 //   console.log(c!==d);
 
- //  logical operators 
+ //  logical operators starts from here 
 
   // logica And opeartor &&
 //   let a = 7;
@@ -162,14 +163,14 @@
 //   let d = a != b;;
 //   console.log(c && d); //true
 
-// // logical or operator ||
+// // logical or operator ( || )
 //   let e = 7;
 //   let f = 6;
 //   let h = e > f;
 //   let g = e == f;
 //   console.log(e > f || e == f); //true
  
-  //logical not ! operator;
+  //logical not ( ! ) operator;
   // let age = 25;
   // let Agenextyear = 26;
   // console.log(!(age == Agenextyear)); // true
