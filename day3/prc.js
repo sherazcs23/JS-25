@@ -170,7 +170,6 @@
 //   console.log(e > f || e == f); //true
  
   //logical not ! operator;
-
   // let age = 25;
   // let Agenextyear = 26;
   // console.log(!(age == Agenextyear)); // true
