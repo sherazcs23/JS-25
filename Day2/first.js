@@ -1,13 +1,13 @@
 // // simple console what it do
-// console.log("ALI");
+console.log("ALI");
 
 // // string datatype
-// let a = "sheraz";
+ let a = "sheraz";
 // console.log(a);
 
 // // // number datatype
-// let age = 20;
-// console.log(age);
+ let age = 20;
+ console.log(age);
 
 // // // boolean  datatype
 // let is_graduatede = true;
@@ -25,12 +25,12 @@
 
 
 // // // symbol is used to create unique value
-// let symbol = Symbol("Sheraz");
-// console.log(symbol);
+ let symbol = Symbol("Sheraz");
+ console.log(symbol);
 
 // // null datatype
-// let type = null;
-// console.log(type);
+ let type = null;
+ console.log(type);
 
 // // undefined dataype
 // let c;
@@ -38,29 +38,26 @@
 // console.log(typeof c);
 
 
-// // non primitive datatypes
-// // array
-// let arr = [1, 2, 3, 4, 5, 6, 7];
-// console.log(arr);
+//  non primitive datatypes
+//  array
+ let arr = [1, 2, 3, 4, 5, 6, 7];
+ console.log(arr);
 
 
 
 // // object
 
-// let obj = {
-//     Name: "sheraz",
-//     age: 20,
-//     is_graduated: false,
-//     university: "GCUF",
-//     country: "pakistan",
-
-
-// }
-// console.log(obj);
+ let obj = {
+    Name: "sheraz",
+    age: 20,
+   is_graduated: false,
+     university: "GCUF",
+     country: "pakistan",
+ }
+ console.log(obj);
 
 
 // // function
-// function Hello() {
-//     console.log("HI we are learning js ");
-// }
+function Hello() {
+   console.log("HI we are learning js "); }
 // Hello();
