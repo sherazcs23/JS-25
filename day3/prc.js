@@ -1,25 +1,25 @@
-// date 26 06 2024  started ths topic
-// let nam2 = "sheraz";
-// console.log(nam2);
+// date 26 06 2024  started ths topic/
+let nam2 = "sheraz";
+ console.log(nam2);
 
-// let age = 25;
-// console.log(age);
-// console.log(typeof age);
+ let age = 25;
+ console.log(age);
+ console.log(typeof age);
 
-// let isGraduated = false;
-// console.log(isGraduated);
-// console.log(typeof isGraduated);
+ let isGraduated = false;
+ console.log(isGraduated);
+ console.log(typeof isGraduated);
 
-// let a;
-// console.log(a);
-// console.log(typeof a);
+ let a;
+console.log(a);
+ console.log(typeof a);
 
-// let aba = null;
-// console.log(aba);
-// console.log(typeof aba);
-// console.log(typeof null); // null is an object in JavaScript
+ let aba = null;
+ console.log(aba);
+ console.log(typeof aba);
+ console.log(typeof null); // null is an object in JavaScript
 
- /* const students = {
+  const students = {
    name: "Sheraz Hussain",
    age  : 25,
    cgpa : 3.5,
@@ -45,10 +45,10 @@
 
    //  26 june 2024 arithematic oprerators 
 
-//   let a =7;
-//   let b =2;
-//  let c=a+b;
-// console.log(c); //9
+  let a =7;
+   let b =2;
+  let c=a+b;
+ console.log(c); //9
 
 
 // let d=a-b;
@@ -167,8 +167,8 @@
 //   let e = 7;
 //   let f = 6;
 //   let h = e > f;
-//   let g = e == f;
-//   console.log(e > f || e == f); //true
+ //  let g = e == f;
+  // console.log(e > f || e == f); //true
  
   //logical not ( ! ) operator;
   // let age = 25;
