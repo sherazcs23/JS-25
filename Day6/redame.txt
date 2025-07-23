@@ -1,0 +1,1 @@
+This is about function in js,anonymous function ,arrow function ,IIFE (imediate invoke function Expression);
