@@ -1,0 +1,55 @@
+body {
+    
+  background-image: url("project.avif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+     } 
+
+ #gallery {
+
+   text-align: left;
+   
+
+ }    
+#main {
+    
+    text-align: left;
+    font-size: 30px;
+    font-family: "Roboto", 'Times New Roman', Times, serif;
+    color: #7303c0;
+
+
+}
+form {
+   
+    color: white;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 14px;
+    margin-bottom: 15px;
+    padding: 20px;
+    border-radius: 50px;
+    background-color: rgba(238, 66, 66, 0.653);
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+h1 {
+   color:#EB5757;
+   text-align:center;
+   margin: top 20px;
+    font-family: 'Arial', sans-serif;
+    font-size: 50px;
+}
+*{
+  text-align:center;
+ font-family: 'Times New Roman', Times, serif;
+
+}
+
+
+
