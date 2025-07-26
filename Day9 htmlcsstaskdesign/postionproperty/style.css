@@ -1,0 +1,46 @@
+div {
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    display: inline-block;
+    /* position: static; // default postion in which we cannot use top, bottom, left, right
+     */
+}
+
+#box1 {
+    /* position: static;  not suitable tow ork with proeperties beacsue its by default */
+    /* top: 20px;
+    left: 10px; */
+    position: static;
+
+}
+
+#box2 {
+    position: relative;
+    /* relative to its normal position  work for others */
+    top: 20px;
+    right: 10px;
+    z-index: 20px;
+}
+
+/* #box3 {
+   position: absolute ;  absolute to its parent element  if parent not then it moves to document body
+    top: 100px;  */
+
+/* } */
+
+
+
+#box3 {
+    position: sticky;
+    /* top: 500px;
+    left: 20px; */
+    z-index: -100px;
+}
+
+#box4 {
+    position: fixed;
+    top: 0px;
+
+}
