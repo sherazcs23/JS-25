@@ -1,1 +1,1 @@
-This si about position property in Css .
+This is about position property in Css .
