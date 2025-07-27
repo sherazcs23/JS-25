@@ -1,1 +1,1 @@
-This is about set time and set interval
+This is about closue and lexical scope in javscript.
